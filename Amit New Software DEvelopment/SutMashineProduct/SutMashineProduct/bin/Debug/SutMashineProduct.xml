@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SutMashineProduct
+</name>
+</assembly>
+<members>
+<member name="T:SutMashineProduct.SutMashineProductDataSet3._customer_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3._customer_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3._customer_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3TableAdapters.customer_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(SutMashineProduct.SutMashineProductDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(SutMashineProduct.SutMashineProductDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(SutMashineProduct.SutMashineProductDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.UpdateAll(SutMashineProduct.SutMashineProductDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet._login_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet._login_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet._login_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSetTableAdapters.login_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SutMashineProduct.SutMashineProductDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SutMashineProduct.SutMashineProductDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SutMashineProduct.SutMashineProductDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.UpdateAll(SutMashineProduct.SutMashineProductDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2._rate_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2._rate_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2._rate_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2TableAdapters.rate_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(SutMashineProduct.SutMashineProductDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(SutMashineProduct.SutMashineProductDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(SutMashineProduct.SutMashineProductDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.UpdateAll(SutMashineProduct.SutMashineProductDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1._customer_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1._customer_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1._customer_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1TableAdapters.customer_tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SutMashineProduct.SutMashineProductDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SutMashineProduct.SutMashineProductDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SutMashineProduct.SutMashineProductDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.UpdateAll(SutMashineProduct.SutMashineProductDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SutMashineProduct.SutMashineProductDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SutMashineProduct.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SutMashineProduct.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SutMashineProduct.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
